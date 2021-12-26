@@ -25,3 +25,4 @@
 # TODO
 - Upload evaluation result
 - Faiss retrieval
+- Notes for different implementation points (TFLite, ...)
