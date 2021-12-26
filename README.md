@@ -5,5 +5,13 @@
 ![](https://github.com/iloveslowfood/complete-the-look-pytorch-implementation/blob/main/etc/cpl.jpg?raw=true)
 
 
-## TODO
+# Dependencies
+
+# Command-line Interface
+## Train
+
+## Inference
+
+# TODO
 - Upload evaluation result
+- Faiss retrieval
