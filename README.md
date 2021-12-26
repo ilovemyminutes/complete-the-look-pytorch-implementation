@@ -6,6 +6,9 @@
 
 
 # Dependencies
+- Python == 3.6.9
+- PyTorch == 1.9.1
+- CUDA == 11.x
 
 # Command-line Interface
 ## Train
