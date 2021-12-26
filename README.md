@@ -1,5 +1,6 @@
 # Complete the Look: Scene-based Complementary Product Recommendation
 - PyTorch implementation for Complete the Look: Scene-based Complementary Product Recommendation
+- It mainly depends on the paper description, not an official implementation
 - Reference. Wang-Cheng Kang et. al., 2019, [Complete the Look: Scene-based Complementary Product Recommendation](https://arxiv.org/abs/1812.01748)
 
 ![](https://github.com/iloveslowfood/complete-the-look-pytorch-implementation/blob/main/etc/cpl.jpg?raw=true)
@@ -25,3 +26,4 @@
 # TODO
 - Upload evaluation result
 - Faiss retrieval
+- Notes for different implementation points (TFLite, ...)
