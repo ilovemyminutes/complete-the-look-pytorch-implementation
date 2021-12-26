@@ -15,6 +15,9 @@
 
 ## Inference
 
+# Code Format
+- black == 21.9b0
+
 # References
 - Wang-Cheng Kang et. al., 2019, [Complete the Look: Scene-based Complementary Product Recommendation](https://arxiv.org/abs/1812.01748)
 - [STL(Shop the Look) Dataset](https://github.com/kang205/STL-Dataset)
