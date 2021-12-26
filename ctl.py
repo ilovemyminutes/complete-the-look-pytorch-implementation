@@ -3,7 +3,7 @@ import torch
 import torch.nn.functional as F
 from torch import nn
 from torchvision import models
-from loss import HingeLoss
+from criterions import HingeLoss
 
 
 class FeedForwardNetwork(nn.Module):
