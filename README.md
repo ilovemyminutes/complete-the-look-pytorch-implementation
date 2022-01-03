@@ -24,7 +24,8 @@
 - [STL(Shop the Look) Dataset](https://github.com/kang205/STL-Dataset)
 
 # TODO
+- Train codes
 - Upload evaluation result
-- Faiss retrieval
+- Faiss retrieval phase
 - Notes for different implementation points (TFLite, ...)
 - Data preprocessing pipeline
